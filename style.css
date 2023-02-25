@@ -3,7 +3,7 @@
     padding: 0px;
 }
 
-@media (min-width: 375px) {
+@media (min-width: 200px) {
     body {
         height: 100vh;
         display: grid;
@@ -17,7 +17,7 @@
         text-align: center;
         color: #ffffff;
         text-shadow: 10px 10px 10px black;
-        font-size: 4rem;
+        font-size: 3rem;
         font-family: Arial, Helvetica, sans-serif;
     }
 
