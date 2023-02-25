@@ -39,7 +39,7 @@
     }
 }
 
-@media (min-width: 481px) {
+@media (min-width: 300px) {
     body {
         height: 100vh;
         display: grid;
