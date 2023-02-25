@@ -3,7 +3,7 @@
     padding: 0px;
 }
 
-@media (min-width: 100px) {
+@media (min-width: 0px) {
     body {
         height: 100vh;
         display: grid;
@@ -39,7 +39,7 @@
     }
 }
 
-@media (min-width: 830px) {
+@media (min-width: 820px) {
     body {
         height: 100vh;
         display: grid;
