@@ -1,6 +1,6 @@
 import { Countdown } from "./contador.js"; 
 
-const tempoFesta = new Countdown("17 february 2023 00:00:00 GMT-0300")
+const tempoFesta = new Countdown("20 april 2023 00:00:00 GMT-0300")
 const tempos = document.querySelectorAll("[data-time]")
 console.log(mostrarTempo)
 
